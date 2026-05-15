@@ -1,0 +1,2 @@
+WAYMADE : HOME MAKERS APP
+A mobile app that empowers homemakers to showcase skills, sell services, and connect with investors. Itpromotes self-sufficiency through tutorials, networking, and learning tools in fields like cooking, tailoring,and makeup, driving economic growth and independence.
